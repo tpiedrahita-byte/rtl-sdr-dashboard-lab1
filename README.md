@@ -4,7 +4,7 @@ Proyecto de laboratorio para recepción con antena RTL-SDR, visualización de PS
 
 ## Entregables
 
-- **Video de funcionamiento:** PEGAR_AQUI_LINK_DEL_VIDEO
+- **Video de funcionamiento:** https://youtu.be/i_AMY168LBk?feature=shared
 - **Código RTL-SDR:** integrado en `lab.py`, sección `SDR`, `HILO SDR` y `DEMODULADOR FM`.
 - **Código Dashboard:** integrado en `lab.py`, sección `DASHBOARD`, `CONTROL` y `UPDATE DASHBOARD`.
 - **Cuaderno GitHub:** `cuaderno_rtl_sdr_dashboard.ipynb`.
