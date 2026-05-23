@@ -1,0 +1,7 @@
+numpy
+scipy
+dash
+plotly
+sounddevice
+setuptools==80.9.0
+pyrtlsdr==0.3.0
